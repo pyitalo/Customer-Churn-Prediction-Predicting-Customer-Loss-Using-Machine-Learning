@@ -1,0 +1,21 @@
+{
+  "models": [
+    {
+      "version": "20251125224109",
+      "path": "pipeline_v20251125224109.pkl",
+      "accuracy": 0.711,
+      "trained_at": "20251125224109",
+      "features": [
+        "gender",
+        "SeniorCitizen",
+        "Partner",
+        "Dependents",
+        "tenure",
+        "InternetService",
+        "Contract",
+        "MonthlyCharges",
+        "TotalCharges"
+      ]
+    }
+  ]
+}
