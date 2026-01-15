@@ -1,4 +1,4 @@
-# Customer Churn Prediction 
+# Backend Prediction Service Architecture
 
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3-orange?logo=scikit-learn)
