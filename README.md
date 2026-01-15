@@ -11,7 +11,7 @@
 
 ##  Project Overview
 
-This repository implements a **full-stack Machine Learning solution** to predict **customer churn** in a telecom company. It demonstrates **production-level ML engineering skills**, including:
+This repository implements a **Backend Python service for customer churn prediction** to predict **customer churn** in a telecom company. It demonstrates **Production-ready Python backend with ML inference API**, including:
 
 - Data preprocessing, cleaning, and feature engineering  
 - Column-specific transformations for numeric & categorical data  
